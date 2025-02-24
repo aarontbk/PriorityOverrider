@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PriorityOverrider", "PriorityOverrider\PriorityOverrider.vcxproj", "{9D216389-6E57-5938-5AFF-088BECD3FD6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overrider", "Overrider\Overrider.vcxproj", "{D62D45A3-A851-48A4-B9D4-06C0565064C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -25,6 +27,14 @@ Global
 		{9D216389-6E57-5938-5AFF-088BECD3FD6C}.Release|x64.ActiveCfg = Release|x64
 		{9D216389-6E57-5938-5AFF-088BECD3FD6C}.Release|x64.Build.0 = Release|x64
 		{9D216389-6E57-5938-5AFF-088BECD3FD6C}.Release|x64.Deploy.0 = Release|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Debug|ARM64.ActiveCfg = Debug|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Debug|ARM64.Build.0 = Debug|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Debug|x64.ActiveCfg = Debug|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Debug|x64.Build.0 = Debug|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Release|ARM64.ActiveCfg = Release|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Release|ARM64.Build.0 = Release|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Release|x64.ActiveCfg = Release|x64
+		{D62D45A3-A851-48A4-B9D4-06C0565064C1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
